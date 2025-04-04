@@ -1,6 +1,6 @@
 # Py2AnyCode
 Python code converter.  
-##dependencies  
-###pyfiglet
-###rich
-###openai
+## dependencies  
+### pyfiglet
+### rich
+### openai
