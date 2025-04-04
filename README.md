@@ -6,7 +6,7 @@ Python code converter.
 ### openai
 ## Run it  
 `python Py2AnyCode.py -t go -i test.py`  
-In test.py,I write:  
+In test.py, I write:  
 ```python
 print('hello world')
 
